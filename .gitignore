@@ -1,0 +1,10 @@
+.nextflow
+important_outs
+inputfiles
+*.sh
+!run.sh
+results*
+work
+*.out
+py
+ipynb

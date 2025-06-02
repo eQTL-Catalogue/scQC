@@ -1,0 +1,2 @@
+sample	cellranger_out	inds	cell_meta
+sample_1	/path/to/cellranger/count/sample_1/outs	/path/to/assets/input_examples/sample_1_individuals.tsv	/path/to/assets/input_examples/sample_1_cell_metadata.tsv

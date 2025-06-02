@@ -1,0 +1,3 @@
+# Force git to track this empty folder
+*
+!.gitignore

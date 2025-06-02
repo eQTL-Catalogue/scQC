@@ -1,0 +1,4 @@
+cell_id	celltype	individual
+barcode_1	celltype_1	VCF_id_1
+barcode_2	celltype_1	VCF_id_2
+barcode_3	celltype_2	VCF_id_3
